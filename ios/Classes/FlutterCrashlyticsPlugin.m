@@ -1,8 +1,4 @@
-#if __has_include("Fabric.h") 
-#import "Fabric.h"
-#else
 #import "Fabric/Fabric.h"
-#endif
 #import "Crashlytics.h"
 #import "FlutterCrashlyticsPlugin.h"
 
