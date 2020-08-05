@@ -1,4 +1,4 @@
-#import "Fabric.h"
+#import <Fabric/Fabric.h>
 #import "Crashlytics.h"
 #import "FlutterCrashlyticsPlugin.h"
 
